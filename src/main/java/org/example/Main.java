@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        String envVariableName = "A";
+        String envVariableName = "OS";
 
         String envVariableValue = System.getenv(envVariableName);
 
